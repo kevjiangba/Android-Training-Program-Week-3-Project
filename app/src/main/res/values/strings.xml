@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Week 3 Project V2</string>
+    <string name="title_activity_school_subject">SchoolSubject</string>
+    <string name="title_activity_subject_adapter">SubjectAdapter</string>
+</resources>
